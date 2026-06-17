@@ -1,0 +1,6 @@
+{
+  "name": "ĐỘI HC-QT AI PRO",
+  "description": "Hệ thống quản lý nghiệp vụ và hỗ trợ AI thông minh dành cho Đội Hậu cần - Quản trị, Công an tỉnh Đắk Lắk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
